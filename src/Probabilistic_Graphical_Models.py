@@ -15,7 +15,7 @@ st.write("This is a digital version of the notes I kept for Probabilistic Graphi
             a storytelling perspective. The number of topics here do not correspond to the ones delivered by the professor to maintain a more thorough understanding. Hopefully, there will be good enough segues in these notes from one topic to another. The segues will help create a solid understanding of why a \
             particular topics needs to be in the lecture.")
 
-st.write("If you want to contribute to the notes, please open an issue on the repository: [Probabilistic-ml](https://github.com/rssr25/probabilistic-graphical-models)")
+st.write("If you want to contribute to the notes, please open an issue on the repository: [Probabilistic-Graphical-Models](https://github.com/rssr25/probabilistic-graphical-models)")
 
 st.write("***")
 
